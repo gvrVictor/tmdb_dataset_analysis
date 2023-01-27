@@ -1,6 +1,6 @@
 # tmdb_dataset_analysis
 
-The purpose of this project is to analyze **The Movie Database** provided by Kaggle, which can be downloaded from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv) or by downloading this repository.
+The purpose of this project is to analyze **The Movie Database** provided by Kaggle, which can be downloaded from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv) or by downloading this repository, file name `tmdb-movies.csv`.
 
 There are 2 *questions* that the Py notebook tries to answer:
 > **Q1**: Which genres are most popular from year to year?
